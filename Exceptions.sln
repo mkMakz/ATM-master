@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankomat", "Exceptions\Bankomat.csproj", "{9B5CCD56-2A37-42EA-A57A-D887CF92271A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKB.Bank", "KKB.Bank\KKB.Bank.csproj", "{42FFA430-1D19-4DFE-A90D-12DCC0D8C2D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5CCD56-2A37-42EA-A57A-D887CF92271A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5CCD56-2A37-42EA-A57A-D887CF92271A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5CCD56-2A37-42EA-A57A-D887CF92271A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5CCD56-2A37-42EA-A57A-D887CF92271A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FFA430-1D19-4DFE-A90D-12DCC0D8C2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FFA430-1D19-4DFE-A90D-12DCC0D8C2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FFA430-1D19-4DFE-A90D-12DCC0D8C2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FFA430-1D19-4DFE-A90D-12DCC0D8C2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
